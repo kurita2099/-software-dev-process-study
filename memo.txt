@@ -21,3 +21,9 @@
  -software-dev-process-study
  をforkする
  
+５　　参考ページ
+
+http://d.hatena.ne.jp/ishibashits/touch/20110627/1309193856
+
+http://qiita.com/t-kashima/items/251acd9ce70ce8929836
+
