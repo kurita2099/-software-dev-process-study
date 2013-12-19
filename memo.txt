@@ -33,3 +33,5 @@ http://www.atmarkit.co.jp/ait/articles/1210/19/news025.html
 
 ６．文字コードを変換
 http://www.powerbeans.co.jp/modules/tinyd2/index.php?id=5
+
+7. 
